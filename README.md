@@ -1,3 +1,8 @@
+# 👋 Hi there, I'm Tanay Palkandwar
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Software+Developer;DSA+Enthusiast" alt="Typing SVG" />
+</div>
+
 # 💫 About Me:
 💫 About Me:<br>🛠️ I’m currently working on:<br>Full-stack web applications using the MERN stack and chatbot projects.<br><br>🤝 I’m looking to collaborate on:<br>Open-source projects, innovative web platforms, or anything that solves real-world problems.<br><br>🧠 I’m looking for help with:<br>Improving backend performance and integrating machine learning models effectively.<br><br>🌱 I’m currently learning:<br>System design principles, advanced Node.js patterns, and backend workflows.<br><br>💬 Ask me about:<br>React, Node.js, MongoDB, REST APIs, or deploying full-stack apps.<br><br>⚡ Fun fact:<br>I’ve built a medical chatbot and helped organize a state-level sports fest as the web and finance team lead!
 
